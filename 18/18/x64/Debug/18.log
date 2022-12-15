@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\TEMP.1406-02.001\source\repos\18\18\Source.c(21,2): warning C4013: dist: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\TEMP.1406-02.001\source\repos\18\18\Source.c(28,1): warning C4142: "dist": неопасное переопределение типа
+C:\Users\TEMP.1406-02.001\source\repos\18\18\Source.c(30,6): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  18.vcxproj -> C:\Users\TEMP.1406-02.001\source\repos\18\x64\Debug\18.exe
